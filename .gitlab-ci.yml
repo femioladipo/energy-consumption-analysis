@@ -1,0 +1,5 @@
+feedback:
+  script:
+  - run_kate . cspark/hsbc-competition:production
+  tags:
+  - kate2.0

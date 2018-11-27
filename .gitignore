@@ -1,0 +1,4 @@
+data/train.csv
+data/train.zip
+*.csv
+__pycache__
